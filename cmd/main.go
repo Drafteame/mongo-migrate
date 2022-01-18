@@ -1,6 +1,6 @@
 package main
 
-import _ "github.com/drafteame/mongo-migrate"
+import _ "github.com/Drafteame/mongo-migrate"
 
 //nolint
 func main() {
